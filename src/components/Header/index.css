@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.logo {
+  height: 40px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 5px 5px 10px #616e7c;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.pop {
+}
+.popup-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
